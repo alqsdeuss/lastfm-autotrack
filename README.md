@@ -1,4 +1,4 @@
-#last.fm auto scrobbler
+##last.fm auto scrobbler
 
 ## Info
 Install:
