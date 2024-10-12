@@ -1,5 +1,3 @@
-## last.fm auto scrobbler
-
 ## Info
 Install:
    ```bash
